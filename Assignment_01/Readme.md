@@ -1,5 +1,5 @@
-**Enhanced Dynamic Robot Movement Simulation**
+**Enhanced Dynamic Robot Movement Simulation:**
 The code demonstrates a grid-based pathfinding agent using three search algorithms: Breadth-First Search (BFS), Uniform Cost Search (UCS), and A* Search. The agent navigates a grid with obstacles, considering a battery constraint. It recharges periodically to avoid running out of power. The code defines a Node class, PriorityQueue class, and Environment class, with methods for A* Search, battery management, and path reconstruction. The A* Search uses a heuristic function for efficient exploration. The battery management system ensures strategic recharges to maintain power. The code also uses matplotlib library for visualization of the grid, solution path, and charging points. Overall, the code provides a comprehensive implementation of grid-based pathfinding with a battery constraint. 
 
-**Heighlights**
+**Heighlights:**
 In the Agent class I have add a battery function to calculate power consumption. Here, we calculate the movement through battery_manager function. I have provided both UCS & A* algorithm in a single code.
