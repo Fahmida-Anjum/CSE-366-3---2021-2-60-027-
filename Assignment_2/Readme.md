@@ -1,8 +1,8 @@
 In this report, I have discussed the application of a genetic algorithm (GA) to optimize task assignments in a multi-robot system. I have introduced new approaches added to the GA implementation to improve optimization effectiveness.
 
-#Approach: I utilized a GA approach comprising initialization, evaluation, selection, crossover, mutation, and replacement steps. The GA implementation was enhanced with new approaches to address specific optimization challenges.
+Approach: I utilized a GA approach comprising initialization, evaluation, selection, crossover, mutation, and replacement steps. The GA implementation was enhanced with new approaches to address specific optimization challenges.
 
-'New Approaches:'
+New Approaches:
 (1) Fitness Function Enhancement:
 I enhanced the fitness function to consider task priority, workload balance, and robot efficiency.
 Task priorities were weighted to prioritize critical tasks effectively.
