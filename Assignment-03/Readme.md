@@ -1,4 +1,5 @@
 Leaf Disease Classification using Transfer Learning
+
 Introduction
 In this project, I'm tackling the challenge of identifying leaf diseases using deep learning. I'm using pre-trained models, which are like expert networks already trained on a huge dataset.
 
