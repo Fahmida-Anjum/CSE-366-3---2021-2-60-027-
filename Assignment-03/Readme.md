@@ -1,11 +1,10 @@
-Leaf Disease Classification using Transfer Learning
+                                    Leaf Disease Classification using Transfer Learning
 
 Introduction: In this project, I'm tackling the challenge of identifying leaf diseases using deep learning. I'm using pre-trained models, which are like expert networks already trained on a huge dataset.
 
 Data Preprocessing: First, I get the dataset ready. I split it into two parts: one for training and one for validation. Then, I resize all images to make them easier to work with, and I adjust the pixel values so the computer can understand them better.
 
 Model Architecture
-
 DenseNet121: I start with a model called DenseNet121. It's known for its ability to learn from data very well. I remove the part that guesses what an image is and add new layers that help it understand our specific problem: identifying leaf diseases.
 
 EfficientNet: Next, I try another model called EfficientNetB0. It's famous for being really good at learning from images efficiently. Like before, I tweak it to understand our leaf disease problem better.
